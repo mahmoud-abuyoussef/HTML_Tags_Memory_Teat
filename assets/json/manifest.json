@@ -4,9 +4,10 @@
   "theme_color": "#fff",
   "background_color": "#ebecf0",
   "display": "standalone",
-  "orientation": "",
-  "scope": "/",
-  "start_url": "/",
+  "orientation": "any",
+  "id": "/HTML_Tags_Memory_Test/",
+  "scope": "/HTML_Tags_Memory_Test/",
+  "start_url": "https://mahmoud-abuyoussef.github.io/HTML_Tags_Memory_Test/",
   "icons": [
     {
       "src": "../images/icons/icon-72x72.png",
